@@ -1,7 +1,7 @@
 May 2017
 Carlos Arreaza
 
-Reflection on CarND-Pid-Projec
+Reflection on CarND-PID-Project
 
 1) Student describes the effect of the P, I, D component of the PID algorithm in their implementation. Is it what you expected?
 
